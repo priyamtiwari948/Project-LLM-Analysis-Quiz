@@ -4,14 +4,14 @@ A complete backend system for solving LLM analysis quizzes automatically. The sy
 
 ## Features
 
-- ✅ **FastAPI Backend**: Async REST API with `/solve` endpoint
-- ✅ **Playwright Integration**: Handles JavaScript-rendered quiz pages
-- ✅ **Multi-format Support**: CSV, PDF, Excel, JSON, images, and text files
-- ✅ **Automatic Chain Solving**: Automatically progresses through quiz chains
-- ✅ **Intelligent Answer Extraction**: Multiple strategies for finding answers
-- ✅ **Error Handling & Retries**: Robust error handling with retry logic
-- ✅ **Comprehensive Logging**: Detailed logging for debugging
-- ✅ **Secret Validation**: Secure authentication with secret keys
+-  **FastAPI Backend**: Async REST API with `/solve` endpoint
+-  **Playwright Integration**: Handles JavaScript-rendered quiz pages
+-  **Multi-format Support**: CSV, PDF, Excel, JSON, images, and text files
+-  **Automatic Chain Solving**: Automatically progresses through quiz chains
+-  **Intelligent Answer Extraction**: Multiple strategies for finding answers
+-  **Error Handling & Retries**: Robust error handling with retry logic
+-  **Comprehensive Logging**: Detailed logging for debugging
+-  **Secret Validation**: Secure authentication with secret keys
 
 ## Project Structure
 
